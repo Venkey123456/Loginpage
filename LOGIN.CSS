@@ -1,0 +1,16 @@
+body{
+    background-image:url(prema.jpg;);
+    background-size:cover;
+}
+h1{
+    color:greenyellow;
+    
+}
+fieldset{
+    color:white;
+    width: 40px;
+    text-align:center;
+    border: 2px solid red;
+    border-radius: 70px 30px;
+    margin: 40px auto;
+}
